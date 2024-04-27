@@ -1,4 +1,4 @@
-# NLP-based Intelligent Content Summarization System
+# Intelligent Content Summarization System using Natural Language Processing
 
 This system uses Natural Language Processing (NLP) to summarize the content of YouTube videos. It leverages the power of OpenAI and Hugging Face models to generate concise summaries in English, Hindi, and Marathi.
 
